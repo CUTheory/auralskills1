@@ -24,11 +24,11 @@ Course website: [cutheory.github.io/auralskills1](http://cutheory.github.io/aura
 
 ### Required ###
 
-- A free account to [Piazza](http://www.piazza.com).  
-- A web-enabled device that can be brought to each class meeting (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
-- An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - [Kazez, Daniel. *Rhythm Reading*, 2nd ed. New York: W. W. Norton & Company, Inc., 1997.](http://openlibrary.org/books/OL22213819M/Rhythm_reading)  
 - [Berkowitz, Sol et al. *A New Approach to Sight Singing*. New York: W.W. Norton, 2011.](http://openlibrary.org/works/OL16010686W/A_new_approach_to_sight_singing)  
+- A web-enabled device that can be brought to each class meeting (laptop, tablet, smartphone, web-friendly eReader, iPod Touch, etc.).  
+- A free account to [Piazza](http://www.piazza.com).  
+- An account for [Spotify](http://www.spotify.com) (a free account should be sufficient for this course).  
 - A semester account for [Learning Catalytics](http://www.learningcatalytics.com).  
 - Manuscript paper, pencils, eraser (bring to class for each meeting).
 
