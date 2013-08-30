@@ -4,7 +4,7 @@
   <title><![CDATA[Aural Skills I]]></title>
   <link href="http://CUTheory.github.com/auralskills1/atom.xml" rel="self"/>
   <link href="http://CUTheory.github.com/auralskills1/"/>
-  <updated>2013-08-28T14:23:44-06:00</updated>
+  <updated>2013-08-30T12:00:20-06:00</updated>
   <id>http://CUTheory.github.com/auralskills1/</id>
   <author>
     <name><![CDATA[Kris Shaffer]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting 3 info]]></title>
+    <link href="http://CUTheory.github.com/auralskills1/2013/08/meeting-3-info/"/>
+    <updated>2013-08-30T11:40:00-06:00</updated>
+    <id>http://CUTheory.github.com/auralskills1/2013/08/meeting-3-info</id>
+    <content type="html"><![CDATA[<p>Please bring manuscript paper, a pencil, and an eraser to class on Wednesday, Sept. 4. You will not need Kazez or Berkowitz. Our focus will be on listening and recognition.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting 2 assignment]]></title>
