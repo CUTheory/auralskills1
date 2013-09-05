@@ -14,7 +14,7 @@ Go to [teoria.com](http://teoria.com), and click on Exercises ["for mobile devic
 
 First, practice both interval and triad recognition until you feel pretty solid. If you are struggling with the intervals, set some limits as you practice. When you first click on "Intervals Ear Training," you see a bunch of check boxes for interval types. By unchecking some of these, you can focus on a subset—just seconds and thirds, for example. 
 
-![]({{ root_url }}/images/intervalPracticeLimits.png)
+![]({{ root_url }}/images/IntervalPracticeLimits.png)
 
 If intervals are difficult or new for you, focus on just seconds and thirds, then just fourths and fifths, then thirds and sixths, etc., and finally put them all together once you are comfortable with them in smaller groups.
 
