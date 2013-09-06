@@ -12,7 +12,7 @@ categories:
 
 Go to [teoria.com](http://teoria.com), and click on Exercises ["for mobile devices"](https://www.teoria.com/mobile/index.php). (Be sure to use the mobile exercises, so you can view/share your score without paying for an account!) The first category is *Ear Training*. Use both the [Intervals](https://www.teoria.com/mobile/intervals/ie.php?l=en) and [Triads](https://www.teoria.com/mobile/triads/c3e.php?l=en) modules.
 
-First, practice both interval and triad recognition until you feel pretty solid. If you are struggling with the intervals, set some limits as you practice. When you first click on "Intervals Ear Training," you see a bunch of check boxes for interval types. By unchecking some of these, you can focus on a subset—just seconds and thirds, for example. 
+First, practice both interval and triad recognition (root-position triads only: major, minor, diminished, and augmented) until you feel pretty solid. If you are struggling with the intervals, set some limits as you practice. When you first click on "Intervals Ear Training," you see a bunch of check boxes for interval types. By unchecking some of these, you can focus on a subset—just seconds and thirds, for example. 
 
 ![]({{ root_url }}/images/IntervalPracticeLimits.png)
 
