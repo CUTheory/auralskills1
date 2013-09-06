@@ -30,3 +30,5 @@ Some additional resources may be helpful for you, depending on the state of your
 - Clendinning & Marvin (your written theory textbook), Chapters 6 ("Intervals") and 7 ("Triads")
 
 (My resources are about a third as long as Clendinning/Marvin.)
+
+*Please be sure to bring the Berkowitz anthology to class on Wednesday.*
