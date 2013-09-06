@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Meeting 3 assignment"
-date: 2013-08-30 11:41
+title: "Meeting 4 assignment"
+date: 2013-09-06 09:41
 comments: true
 categories: 
 ---
 
-*For Friday, Sept. 6, 8am*, please do the following:
+*For Tuesday, Sept. 10, 8am*, please do the following:
 
 - Read/watch my resource on [melodic dictation](http://kris.shaffermusic.com/musicianship/melodicDictationDemo.html).  
 - Do [lab assignment 1.1](http://www.colorado.edu/music/courses/musc1121/1_1/index.html) (both the worksheet and audio files can be found at that page).  
