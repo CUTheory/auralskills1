@@ -44,20 +44,24 @@ This class is structured in four-week cycles, each incorporating in-class drill,
 
 # Grading #
 
-Evaluation is based on four components, weighted approximately as follows:
+Students will be evaluated according to the following ten categories:
 
-- Quizzes: 40%  
-- Recitations: 30%  
-- Lab assignments: 20% (.25 * Lab .1 + .75 * Lab .2)  
-- In-class & online performance/participation: 10%  
+- Rhythmic prepared performance  
+- Rhythmic sight-singing  
+- Melodic prepared performance  
+- Melodic sight-singing  
+- Keyboard prepared performance  
+- Rhythmic dictation  
+- Melodic dictation  
+- Harmonic dictation  
+- Cycle 1 & 2 performance  
+- Professionalism & participation
 
-# Lab assignments #
-
-Lab assignments are posted at [www.colorado.edu/music/courses/musc1121](http://www.colorado.edu/music/courses/musc1121). Each cycle has two. The .1 lab is a "free trial"—we will simply go over it in class, and you will not be graded for accuracy. Bring a pen(cil) of a different color and self-mark your errors to focus on skills you need to improve. The .2 lab, due the following week, will be similar in content but will be handed in for a grade. Labs also prepare you for each cycle's quiz. *Do not collaborate on labs.*
+For each category, students will receive a running assessment of **N** (not passed—yet), **B** (borderline), or **P** (passing). At the end of the semester, a final score will be tallied with Ps equalling 1 point, Bs 0.5 points, and Ns 0 points. A total of 9 or better will translate into an A, 8 or better B, 7 or better C, 6 or better D, less than 6 F. Passing standards for each category are provided on the [assessment]({{ root_url }}/assessment/) page.
 
 # Attendance #
 
-*Please be responsible* about your attendance and your work. Since this is a skills class, practice is necessary for success. More than two absences may cumulatively lower your final grade up to a whole letter, and we are required to notify the undergraduate dean when a student exceeds three absences. Notify your instructor in advance about date(s) when you know you will be away (for events such as performances, auditions, etc.). If you miss a class due to a legitimate emergency, let your instructor know—before your absence, if possible, but certainly as soon as you return to class. Consult your instructor if you are having trouble meeting the expectations of the class. We are here to help you in the gradual and sometimes trying work of improving your aural skills. Have a successful and fulfilling semester!
+*Please be responsible* about your attendance and your work. Since this is a skills class, practice is necessary for success. Absences and lates will lower your *professionalism and participation* grade, and we are required to notify the undergraduate dean when a student exceeds three absences. Notify your instructor in advance about date(s) when you know you will be away (for events such as performances, auditions, etc.). If you miss a class due to a legitimate emergency, let your instructor know—before your absence, if possible, but certainly as soon as you return to class. Consult your instructor if you are having trouble meeting the expectations of the class. We are here to help you in the gradual and sometimes trying work of improving your aural skills. Have a successful and fulfilling semester!
 
 # About this syllabus #
 

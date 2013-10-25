@@ -12,7 +12,7 @@ Assignment due *Monday, Nov. 4, 8am*:
 
 - Choose three of the following rhythmic exercises from Kazez: nos. 70, 73, 76, 83, or 88.
 
-- Choose three of the five melodies on the Recitation 3 guide.
+- Choose three of the five melodies on the [Recitation 3 guide](media/rec3.pdf).
 
 - Practice them until you have mastered them, and record a video of yourself performing each of the six exercises flawlessly, or nearly so.
 
