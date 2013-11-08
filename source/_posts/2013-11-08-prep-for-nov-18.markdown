@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Prep for Nov. 13 & 18"
+date: 2013-11-08 10:17
+comments: true
+categories: 
+---
+
+Please bring Kazez, Berkowitz, your keyboard schemata packet, and staff paper to class on Nov. 13.
+
+I have posted the materials for the *keyboard prepared performance* video portfolio. Please [download the exercises]({{ root_url }}/media/keyboardExercises.pdf), and record a video of yourself performing each one perfectly or nearly so. Create a folder on Google Drive named "LASTNAME Keyboard Performance Portfolio", upload these videos to that folder, and share the folder with me **by class time on Nov. 18**. If they are up to standard, this will complete your *keyboard prepared performance* [course objective]({{ root_url }}/assessment/). If not, you will need to reqork them and resubmit them.
+
+I have also posted the Cycle 4 singing materials, linked from the [assessment page]({{ root_url }}/assessment/) under the appropriate categories. If you are comfortable doing so (it is not required yet), you may make videos of those rhythms and melodies to add to your Cycle 3 materials. Once your Cycle 3 and 4 melodies and rhythms are recorded as performed (nearly) flawlessly, you will complete your *melodic prepared performance* and *rhythmic prepared performance* objectives. The goal will be for everyone to meet the prepared performance objectives before Thanksgiving break, so that we can focus entirely on listening and sight-reading during the last two weeks of class. Feel free to work ahead as you are able.

@@ -26,7 +26,7 @@ Following are passing standards for each category.
 
 ## Rhythmic prepared performance  
 
-Passing this category requires demonstrating an ability to perform (with preparation) rhythmic excerpts containing rhythmic values down to the subdivision (no syncopation) in simple or compound meter. This will be demonstrated with a video portfolio of exercises from the Kazez book chosen by the instructor. This portfolio should include three excercises from Chapter 3 (chosen by the student from nos. 70, 73, 76, 83, and 88) and three exercises from Chapter 4 (chosen by the student from nos. 107,m 109, 111, 113, and 115).
+Passing this category requires demonstrating an ability to perform (with preparation) rhythmic excerpts containing rhythmic values down to the subdivision (no syncopation) in simple or compound meter. This will be demonstrated with a video portfolio of exercises from the Kazez book chosen by the instructor. This portfolio should include three excercises from Chapter 3 (chosen by the student from nos. 70, 73, 76, 83, and 88) and three exercises from Chapter 4 (chosen by the student from nos. 107, 109, 111, 113, and 115).
 
 
 ## Rhythmic sight-singing  
@@ -46,7 +46,7 @@ Passing this category requires demonstrating an ability to perform (from sight) 
 
 ## Keyboard prepared performance  
 
-Passing this category requires demonstrating an ability to perform any diatonic triad or seventh chord in a phrase-length (8–12 chords), basso-continuo-style keyboard passage. This will be demonstrated with a video portfolio of exercises chosen by the instructor.
+Passing this category requires demonstrating an ability to perform any diatonic triad or seventh chord in a phrase-length (8–12 chords), basso-continuo or melodic-style keyboard passage. This will be demonstrated with a video portfolio of [four exercises]({{ root_url }}/media/keyboardExercises.pdf). 
 
 
 ## Rhythmic dictation  
