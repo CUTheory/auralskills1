@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Prep for Nov. 20"
+date: 2013-11-14 11:15
+comments: true
+categories: 
+---
+
+For class on Nov. 20, go to the **MUSC 1121 shared materials** in Google Drive and open the folder called **Introduction to bass-line dictation**. For each recording, transcribe the bass line (key and meter listed below), put an asterisk above each bass note that is accompanied by a full block chord, and label the cadence type (PAC, IAC, or HC) at the end of each excerpt. Bring these transcriptions to class for discussion and troubleshooting.
+
+Excerpt 36.1: Tonic of A, 6/4.
+
+Excerpt 36.2: Tonic of E-flat, 3/2.
+
+Excerpt 36.3: Tonic of C, 2/4.
+
+Excerpt 36.4: Tonic of B-flat, 2/2.
